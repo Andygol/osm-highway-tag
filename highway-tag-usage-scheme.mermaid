@@ -1,6 +1,6 @@
-# Застосування теґів `highway = …` в Україні
-
-```mermaid
+---
+title: Застосування теґів highway = … в Україні
+---
 flowchart TD
 
 hw(["<code>highway = …</code>"]) --> q_car{"`Дорога для звичайного автомобільного руху?`"}
@@ -158,10 +158,3 @@ q_road -.- n_road
 
 n_track@{ shape: braces, label: "Не треба плутати путівець в полі чи лісі з дорогою без покриття. Тож замість <code>highway=track</code> слід використовувати відповідне значення теґу <code>highway</code> (<code>service</code>, <code>unclassified</code>, <code>residential</code>, …) разом із теґом <code>surface=ground</code> або іншими, відповідними значеннями" }
 track -.- n_track
-```
-
----
-
-Схему розроблено dimonster на основі Вікі-OSM, вдосконалено andygol та darkonus,
-за участі учасників української спільноти проєкту OpenStreetMap.
-Версія схеми 2.0.11 від 11 серпня 2025 року, CC BY-SA.
