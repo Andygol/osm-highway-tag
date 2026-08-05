@@ -7,23 +7,17 @@
 
 ## Обговорення
 
-Схему обговорюють на форумі української спільноти OpenStreetMap:
-
-* [Оновлення схеми застосування теґів `highway`](https://community.openstreetmap.org/t/topic/133408) — 2025 рік, версії 2.0.5 — 2.0.11;
-* [Автомобільні шляхи України](https://community.openstreetmap.org/t/topic/50063/196) — початок роботи над схемою, 2013 рік.
-
-Пропозиції та зауваження можна лишати як в темі на форумі, так і в
+Схему обговорюють на форумі української спільноти OpenStreetMap. Роботу над нею
+почали 2013 року в темі [Автомобільні шляхи України](https://community.openstreetmap.org/t/topic/50063/196),
+а оновлення до версії 2.0.11 обговорювали 2025 року в темі
+[Оновлення схеми застосування теґів `highway`](https://community.openstreetmap.org/t/topic/133408).
+Пропозиції та зауваження можна лишати як там, так і в
 [issues](https://github.com/Andygol/osm-highway-tag/issues) цього репозиторію.
 
-## Автори та ліцензія
+## Автори
 
 Схему розроблено dimonster на основі Вікі-OSM, вдосконалено andygol та darkonus,
 за участі учасників української спільноти проєкту OpenStreetMap.
 
 Шрифти: New Computer Modern © Antonis Tsolomitis, 2019—2025, Samos, Greece,
 [GUST Font License v1.0](https://www.gust.org.pl/projects/e-foundry/licenses).
-
-Схема розповсюджується на умовах ліцензії
-[Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
-
-![CC BY-SA](cc-by-sa%2880x15%29.png)
